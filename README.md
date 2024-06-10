@@ -8,6 +8,10 @@ This is a short async await demo in Javascript that I've prepared for FixelCould
  - node.js
  - node fetch API
 
+### To Run:
+```
+node main.js
+```
 
 ### Note:
 
